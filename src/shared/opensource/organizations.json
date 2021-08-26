@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "login": "Kong",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/962416?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "NativeScript",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7392261?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "microsoft",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/6154722?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "AWS-User-Group-Jaipur-Rajasthan",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/83973620?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "AskforTrain",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/83431510?v=4",
+      "__typename": "Organization"
+    }
+  ]
+}
