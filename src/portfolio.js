@@ -26,7 +26,7 @@ const greeting = {
     "A passionate individual who always thrives to work on end to end products in machine learning and AI which develop sustainable and scalable social and technical systems to create impact. I am just another guy who wanna add value to the future.",
   resumeLink:
     "https://drive.google.com/file/d/1iB2p9ZSbc6MTO4cdusoOHfrVyJ396WSL/view?usp=sharing",
-  portfolio_repository: "https://github.com/dhruvaop/twitter_analyzer-",
+  portfolio_repository: "https://github.com/dhruvaop/weather-forecast-",
 };
 
 const socialMediaLinks = [
@@ -59,7 +59,7 @@ const socialMediaLinks = [
   },
   {
     name: "Gmail",
-    link: "dhruvabhattacharya130102@gmail.com",
+    link: "mailto:dhruvabhattacharya130102@gmail.com",
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
@@ -669,10 +669,9 @@ const contactPageData = {
   },
   addressSection: {
     title: "Address",
-    subtitle:
-      "Shiv Nagar, Damoh-Naka, behind water tank, Jabalpur, Madhya Pradesh - 482002",
+    subtitle: "Jabalpur, Madhya Pradesh - 482002",
     avatar_image_path: "video-calling.png",
-    location_map_link: "https://goo.gl/maps/XSgdQPwW3xciFEYL9",
+    location_map_link: "https://goo.gl/maps/iFWmk9CK674CMobL8",
   },
   phoneSection: {
     title: "Phone Number",
